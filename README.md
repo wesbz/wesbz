@@ -7,4 +7,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like skateboarding.
 
-[![Spotify](https://wesbz.vercel.app/api/spotify)](https://open.spotify.com/user/11102679385)
+<a href="https://wesbz.vercel.app/now-playing?open">
+    <img src="https://wesbz.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
