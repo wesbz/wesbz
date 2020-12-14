@@ -22,20 +22,25 @@ export const Track: React.FC<Props> = ({
             @media (prefers-color-scheme: dark) {
               color: #FFF;
             }
+
             img:not([src]) {
               content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
               background: #FFF;
               border: 1px solid #e1e4e8;
             }
+
             img {
               border-radius: 3px;
             }
+
             p {
               display: block;
             }
+
             #cover {
               box-shadow: 0 1px 3px rgba(0,0,0,0.1), 0 3px 10px rgba(0,0,0,0.05);
             }
+
             #cover:not([src]) {
               box-shadow: none;
             }

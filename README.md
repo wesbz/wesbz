@@ -7,6 +7,25 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like skateboarding.
 
-<a href="https://wesbz.vercel.app/now-playing?open">
-    <img src="https://wesbz.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+<a href="https://wesbz.vercel.app/now-playing?open"><img src="https://wesbz.vercel.app/now-playing" width="540" height="64">
+
+<table>
+  <thead>
+    <tr>
+      <th>Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=1&open"><img src="https://wesbz.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=2&open"><img src="https://wesbz.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=3&open"><img src="https://wesbz.vercel.app/top-tracks?i=3" width="540" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>

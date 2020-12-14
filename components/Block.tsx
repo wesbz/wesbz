@@ -17,6 +17,7 @@ const Block = ({ color }: { color: keyof typeof colors }) => {
           #block {
             animation: RAINBOW 15s cubic-bezier(0.470, 0.020, 1.000, 0.570) infinite;
           }
+
           @keyframes RAINBOW {
             ${colorNames
               .slice(0, -1)
