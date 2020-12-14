@@ -7,7 +7,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like skateboarding.
 
-<a href="https://wesbz.vercel.app/now-playing?open"><img src="https://wesbz.vercel.app/now-playing" width="540" height="64">
+<a href="https://wesbz.vercel.app/now-playing?open"><img src="https://wesbz.vercel.app/now-playing" width="540" height="64"></a>
 
 <table>
   <thead>
