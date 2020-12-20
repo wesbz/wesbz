@@ -1,5 +1,4 @@
 ### Hi there, I'm Wassim (Wes for short) 👋
-![GitHub followers](https://img.shields.io/github/followers/wesbz?style=social)
 
 - 🔭 I’m currently working on `Speech Processing`, `Music Processing`, `Graph Machine Learning`.
 - 🌱 I’m currently learning `JAX` 
@@ -23,21 +22,33 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://wesbz.vercel.app/top-tracks?i=1&open"><img src="https://wesbz.vercel.app/top-tracks?i=1&timeRange=short_term" width="180" height="64"></a></td>
-      <td><a href="https://wesbz.vercel.app/top-tracks?i=1&open"><img src="https://wesbz.vercel.app/top-tracks?i=1&timeRange=medium_term" width="180" height="64"></a></td>
-      <td><a href="https://wesbz.vercel.app/top-tracks?i=1&open"><img src="https://wesbz.vercel.app/top-tracks?i=1&timeRange=long_term" width="180" height="64"></a></td>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=1&timeRange=short_term&open"><img src="https://wesbz.vercel.app/top-tracks?i=1&timeRange=short_term" width="180" height="64"></a></td>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=1&timeRange=medium_term&open"><img src="https://wesbz.vercel.app/top-tracks?i=1&timeRange=medium_term" width="180" height="64"></a></td>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=1&timeRange=long_term&open"><img src="https://wesbz.vercel.app/top-tracks?i=1&timeRange=long_term" width="180" height="64"></a></td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://wesbz.vercel.app/top-tracks?i=2&open"><img src="https://wesbz.vercel.app/top-tracks?i=2&timeRange=short_term" width="180" height="64"></a></td>
-      <td><a href="https://wesbz.vercel.app/top-tracks?i=2&open"><img src="https://wesbz.vercel.app/top-tracks?i=2&timeRange=medium_term" width="180" height="64"></a></td>
-      <td><a href="https://wesbz.vercel.app/top-tracks?i=2&open"><img src="https://wesbz.vercel.app/top-tracks?i=2&timeRange=long_term" width="180" height="64"></a></td>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=2&timeRange=short_term&open"><img src="https://wesbz.vercel.app/top-tracks?i=2&timeRange=short_term" width="180" height="64"></a></td>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=2&timeRange=medium_term&open"><img src="https://wesbz.vercel.app/top-tracks?i=2&timeRange=medium_term" width="180" height="64"></a></td>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=2&timeRange=long_term&open"><img src="https://wesbz.vercel.app/top-tracks?i=2&timeRange=long_term" width="180" height="64"></a></td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://wesbz.vercel.app/top-tracks?i=3&open"><img src="https://wesbz.vercel.app/top-tracks?i=3&timeRange=short_term" width="180" height="64"></a></td>
-      <td><a href="https://wesbz.vercel.app/top-tracks?i=3&open"><img src="https://wesbz.vercel.app/top-tracks?i=3&timeRange=medium_term" width="180" height="64"></a></td>
-      <td><a href="https://wesbz.vercel.app/top-tracks?i=3&open"><img src="https://wesbz.vercel.app/top-tracks?i=3&timeRange=long_term" width="180" height="64"></a></td>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=3&timeRange=short_term&open"><img src="https://wesbz.vercel.app/top-tracks?i=3&timeRange=short_term" width="180" height="64"></a></td>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=3&timeRange=medium_term&open"><img src="https://wesbz.vercel.app/top-tracks?i=3&timeRange=medium_term" width="180" height="64"></a></td>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=3&timeRange=long_term&open"><img src="https://wesbz.vercel.app/top-tracks?i=3&timeRange=long_term" width="180" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=4&timeRange=short_term&open"><img src="https://wesbz.vercel.app/top-tracks?i=4&timeRange=short_term" width="180" height="64"></a></td>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=4&timeRange=medium_term&open"><img src="https://wesbz.vercel.app/top-tracks?i=4&timeRange=medium_term" width="180" height="64"></a></td>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=4&timeRange=long_term&open"><img src="https://wesbz.vercel.app/top-tracks?i=4&timeRange=long_term" width="180" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=5&timeRange=short_term&open"><img src="https://wesbz.vercel.app/top-tracks?i=5&timeRange=short_term" width="180" height="64"></a></td>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=5&timeRange=medium_term&open"><img src="https://wesbz.vercel.app/top-tracks?i=5&timeRange=medium_term" width="180" height="64"></a></td>
+      <td><a href="https://wesbz.vercel.app/top-tracks?i=5&timeRange=long_term&open"><img src="https://wesbz.vercel.app/top-tracks?i=5&timeRange=long_term" width="180" height="64"></a></td>
     </tr>
   </tbody>
 </table>
