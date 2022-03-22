@@ -63,7 +63,7 @@ export const Player: React.FC<Props> = ({
               width: 100%;
               height: 6px;
               transform-origin: left center;
-              background-color: #24292e;
+              background-color: #586069;
               animation: progress ${duration}ms linear;
               animation-delay: -${progress}ms;
             }
