@@ -1,11 +1,9 @@
 ### Hi there, I'm Wassim (Wes for short) 👋
 
-- 🔭 I’m currently working on `Speech Processing`, `Music Processing`, `Graph Machine Learning`.
-- 🌱 I’m currently learning `JAX` 
+- 🔭 I’m currently working on `AI Security`, `LLM & Agents Safety`, `Mechanistic Interpretability` & `Reasoning`.
 - 👯 I’m looking to collaborate on cool research projects
 - 💬 Ask me about anything!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like skateboarding 🛹, playing piano 🎹 and guitar 🎸.
 
 ### Currently listening 🎧 🎼
 
